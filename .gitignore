@@ -1,0 +1,4 @@
+env/
+_ipynb_checkpoints/
+*.csv
+.env
